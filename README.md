@@ -1,4 +1,4 @@
-# smartViewPlus.js
+# smartViewPlus.js (for an assignment)
 WARNING: NOT FOR PROFESSIONAL USE
 
 Section 1 - Command Description
