@@ -1,5 +1,5 @@
 # smartViewPlus.js
-Not for professional use
+WARNING: NOT FOR PROFESSIONAL USE
 
 Section 1 - Command Description
 smartViewPlus.js is a custom Node.js command-line tool that extends basic file-viewing functionality. It reads a text file, displays the first 10 lines, the last 10 lines, searches for a keyword, counts matches, and writes all results to a log file. The tool combines the behavior of commands like cat, head, tail, and grep into a single "fancy" command.
